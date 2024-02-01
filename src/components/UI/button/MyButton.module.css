@@ -1,0 +1,14 @@
+.myBtn{
+  padding: 8px 14px;
+  margin-left: 10px;
+  font-size: 20px;
+  background-color: transparent;
+  border: 2px solid black;
+  cursor: pointer;
+  transition: box-shadow  .4s ease 0s;
+  border-radius: 4px;
+}
+.myBtn:hover{
+  box-shadow: 1px 4px 20px rgba(0,0,0,0.7);
+  transform: scale(1.05);
+}

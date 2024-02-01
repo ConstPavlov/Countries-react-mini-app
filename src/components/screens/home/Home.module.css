@@ -1,0 +1,28 @@
+
+.auth{
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  margin: 30px auto;
+  flex-direction: column;
+  padding: 20px;
+  max-width: 300px;
+  background-color: bisque;
+  box-shadow: -3px -13px 83px 18px rgba(65,184,77,0.75);
+  border-radius: 16px;
+}
+.title{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.titleAuth{
+  text-align: center;
+  font-size: 22px;
+  margin: 10px 0 15px 0;
+}
+
+.authInp{
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,46 @@
+{
+  "cards" : [
+    {
+      "id" : "1",
+      "country" : "Russia",
+      "capital" : "Moscow",
+      "continent" : "Evrazia",
+      "image" : "http://localhost:4200/image/1.jpeg"
+    },
+    {
+      "id" : "2",
+      "country" : "Austria",
+      "capital" : "Wien",
+      "continent" : "Europe",
+      "image" : "http://localhost:4200/image/2.jpeg"
+    },
+    {
+      "id" : "3",
+      "country" : "Belorussia",
+      "capital" : "Minsk",
+      "continent" : "Europe",
+      "image" : "http://localhost:4200/image/3.jpeg"
+    },
+    {
+      "id" : "4",
+      "country" : "Slovakia",
+      "capital" : "Bratislava",
+      "continent" : "Europe",
+      "image" : "http://localhost:4200/image/4.png"
+    },
+    {
+      "id" : "5",
+      "country" : "Kazahstan",
+      "capital" : "Almaty",
+      "continent" : "Asia",
+      "image" : "http://localhost:4200/image/5.jpeg"
+    },
+    {
+      "id" : "6",
+      "country" : "Hungary",
+      "capital" : "Budapest",
+      "continent" : "Europe",
+      "image" : "http://localhost:4200/image/6.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(177, 208, 175);
+  min-height: 100%;
+  padding: 20px 10px;
+}
+
+.links--pages{
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 16px;
+}
+.link--page{
+  font-size: 18px;
+  font-weight: bold;
+  color: darkslategrey;
+  text-decoration: none;
+}
+.link--page:hover{
+  color: #FFFFFF;
+  text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+}

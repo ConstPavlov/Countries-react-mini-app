@@ -1,0 +1,12 @@
+.wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.desc {
+  margin-bottom: 10px;
+}

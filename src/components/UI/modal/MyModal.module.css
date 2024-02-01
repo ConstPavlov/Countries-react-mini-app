@@ -1,0 +1,34 @@
+.modal{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  left: 0;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.437);
+}
+.modal.active{
+  display: flex;
+}
+.modalContent{
+  padding: 22px 18px;
+  background-color: azure;
+  border-radius: 4px;
+  position: relative;
+}
+.modalContent h1{
+  text-align: center;
+  color: darkmagenta;
+  margin-bottom: 12px;
+}
+.close{
+  position: absolute;
+  top: 4px;
+  right: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
